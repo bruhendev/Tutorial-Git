@@ -24,3 +24,4 @@
     divide(10, 5);
     subtrai(10, 5);
     soma(10, 5);
+    multiplica(10, 5);
