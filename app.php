@@ -7,7 +7,12 @@
 
     function subtrai($a, $b)
     {
-        echo " $a - $b = " . ($a / $b) . "\n"; 
+        echo " $a - $b = " . ($a - $b) . "\n"; 
+    }
+
+    function multiplica($a, $b)
+    {
+        echo " $a * $b = " . ($a * $b) . "\n";
     }
 
     function soma($a, $b)
