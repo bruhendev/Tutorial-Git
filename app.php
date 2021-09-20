@@ -2,9 +2,13 @@
 
     function divide($a, $b)
     {
-        echo " $a dividido por $b é igual a " . ($a / $b); 
+        echo " $a dividido por $b é igual a " . ($a / $b) . "\n"; 
     }
 
-    // $resultado = divide(10, 2);
+    function subtrai($a, $b)
+    {
+        echo " $a - $b = " . ($a / $b) . "\n"; 
+    }
 
     divide(10, 5);
+    subtrai(10, 5);
