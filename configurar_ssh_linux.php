@@ -1,6 +1,7 @@
 <?php 
 
-echo "CONFIGURAR USUÁRIO
+
+echo 'CONFIGURAR USUÁRIO
 
 git config --global user.name "nome do usuário"
 git config --global user.email "emaildousuario@teste.com"
@@ -28,4 +29,4 @@ git push origin master (joga suas alterações no servidor remoto)
 
 BUSCA AS INFORMAÇÕES DO SERVIDOR REMOTO
 
-git pull origin master";
+git pull origin master ';
